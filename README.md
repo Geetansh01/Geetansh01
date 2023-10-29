@@ -5,6 +5,7 @@
 <p align="center">
  
 ![image](https://raw.githubusercontent.com/Geetansh01/Geetansh01/main/ProfileBanner.png)
+[![An image of @geetansh01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/geetansh01)](https://holopin.io/@geetansh01)
 
 </p>
 
