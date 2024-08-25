@@ -13,7 +13,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a BTech CSE Sophie at IPU who enjoys learning and collaborating. 
+💡 &nbsp; I'm a BTech CSE student at IPU who enjoys learning and collaborating. 
 
 -----
 ### 📫 &nbsp; How to reach me:
